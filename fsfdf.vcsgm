@@ -1,7 +1,7 @@
 type: VCS Game Maker Project
 format-version: 1
 app-version: 0.50.37
-generation-time: 2026-09-21T20:28:51.287Z
+generation-time: 2026-09-21T20:11:46.427Z
 configuration:
   showScore: true
   enableScoreFade: false
@@ -453,7 +453,7 @@ blockly-workspace: >-
                                                             </shadow>
                                                           </value>
                                                           <next>
-                                                            <block type="sprite_ball_change" id="O8@!kly85+TmU;TEz0(p" disabled="true">
+                                                            <block type="sprite_ball_change" id="O8@!kly85+TmU;TEz0(p">
                                                               <field name="VAR">bally</field>
                                                               <value name="DELTA">
                                                                 <shadow type="math_number" id="nm9zBY/19,g]s6U]5bMB">
@@ -522,19 +522,6 @@ blockly-workspace: >-
                                                                           </value>
                                                                         </block>
                                                                       </next>
-                                                                    </block>
-                                                                  </statement>
-                                                                  <statement name="ELSE">
-                                                                    <block type="sprite_ball_change" id="v,Q8awyw^5a~XqWLp8nQ">
-                                                                      <field name="VAR">bally</field>
-                                                                      <value name="DELTA">
-                                                                        <shadow type="math_number">
-                                                                          <field name="NUM">1</field>
-                                                                        </shadow>
-                                                                        <block type="variables_get" id="08]JAD%iuiNTnoM{Df(?">
-                                                                          <field name="VAR" id="@?uLZI62Bb}qtbUoL5W-">Ball Speed 0</field>
-                                                                        </block>
-                                                                      </value>
                                                                     </block>
                                                                   </statement>
                                                                   <next>
