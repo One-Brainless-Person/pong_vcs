@@ -1,7 +1,7 @@
 type: VCS Game Maker Project
 format-version: 1
 app-version: 0.50.37
-generation-time: 2026-09-23T01:43:32.848Z
+generation-time: 2026-09-23T02:00:42.903Z
 configuration:
   showScore: true
   enableScoreFade: false
@@ -263,7 +263,7 @@ blockly-workspace: >-
                                       <field name="VAR">player0y</field>
                                       <value name="VALUE">
                                         <shadow type="math_number" id="L$IcG!9N^Cmb}:4YVI{~">
-                                          <field name="NUM">80</field>
+                                          <field name="NUM">88</field>
                                         </shadow>
                                       </value>
                                       <next>
@@ -272,7 +272,7 @@ blockly-workspace: >-
                                           <field name="VAR">player1y</field>
                                           <value name="VALUE">
                                             <shadow type="math_number" id="GB@~Id?[PR;hO}eDmeKU">
-                                              <field name="NUM">20</field>
+                                              <field name="NUM">2</field>
                                             </shadow>
                                           </value>
                                           <next>
